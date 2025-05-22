@@ -623,6 +623,11 @@ footer .container > div {
   color: #0052a3;
 }
 
+
+.text-muted {
+  color: #888888!important;
+}
+
 @media (max-width: 768px) {
     .country-dropdown .btn {
         min-width: unset;
